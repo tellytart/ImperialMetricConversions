@@ -177,7 +177,7 @@
 
 +(NSString *)convertCmtoCmString:(NSNumber *)value
 {
-  NSString *convertedValue = [[NSString alloc] initWithFormat:@"%0.0fcm",[value floatValue]];
+  NSString *convertedValue = [[NSString alloc] initWithFormat:@"%0.1fcm",[value floatValue]];
   return convertedValue;
 }
 
