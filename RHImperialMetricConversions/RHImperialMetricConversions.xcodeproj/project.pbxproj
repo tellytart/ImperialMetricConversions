@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		794AB8DB1768B9A900069671 /* PTMetricImperialConversions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PTMetricImperialConversions.m; sourceTree = "<group>"; };
+		794AB8DC1768B9A900069671 /* PTMetricImperialConversions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PTMetricImperialConversions.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		794AB8D41768B8C300069671 = {
 			isa = PBXGroup;
 			children = (
+				794AB8DB1768B9A900069671 /* PTMetricImperialConversions.m */,
+				794AB8DC1768B9A900069671 /* PTMetricImperialConversions.h */,
 			);
 			sourceTree = "<group>";
 		};
